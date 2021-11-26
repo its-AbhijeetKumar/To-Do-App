@@ -1,0 +1,45 @@
+.rec{
+    text-align: center;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    margin-top: 68px;
+    margin-bottom: 100px;
+    margin-right: 400px;
+    margin-left: 550px;
+    color: rgb(0, 0, 0);
+  }
+
+  h2{
+    background-color:transparent;
+    color: rgb(252, 196, 94);
+    margin-top: 80px;
+    margin-right: 80px;
+  }
+
+ body{
+   background-image: url("https://wallpapercave.com/wp/wp2539526.jpg");
+ }
+ button{
+  margin-left: 5px;
+  background-color:rgb(243, 201, 84);
+  color:black;
+  height: 25px;
+  width:70px;
+  border-color: black;
+  border-radius: 8px;
+}
+input{
+  margin-top: 60px;
+  margin-left: 150px;
+  width:250px;
+  height:25px;
+  text-align: center;
+  border-color: black;
+  border-radius: 10px;
+  background-color:rgb(240, 116, 100);
+}
+
+  
+  
+  
